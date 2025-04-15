@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
     <!-- Page Title -->
-    <title>Hospital Management System</title>
+    <title> Tumaini Hospital Management System</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/images/logo/favicon.png" type="image/x-icon">
@@ -53,10 +53,11 @@
     <section class="banner-area">
         <div class="container">
             <div class="row">
-                <div class="col-lg-8">
+		<div class="col-lg-8">
+		    <h1>WELCOME TO TUMAINI REFERRAL HOSPITAL</h1>
                     <h4>Caring for better life</h4>
-                    <h1>Leading the way in medical excellence</h1>
-                    <p>HMS is awarded as one of the Top Hospital Management System, which can integrate all the HIS systems, processes and machines into an intelligent information system to derive operational efficiency and assist hospitals in decision making process through MIS and Analytics.</p>
+                    <h2>About Tumaini Hospital</h2>
+                    <p>At Tumaini Hospital, we believe in a holistic approach to healthcare that encompasses compassion, innovation, and excellence. Established with a vision to transform lives through exemplary medical care, we stand as a beacon of hope and healing in our community.</p>
                 </div>
             </div>
         </div>
