@@ -1,3 +1,3 @@
 <footer class="footer footer-alt">
-            2025 - <?php echo date ('Y');?> &copy; Tumaini Hospital Management System.</a> 
+            2024 - <?php echo date ('Y');?> &copy; Tumaini Hospital Management System Developed by Abner Santos.</a> 
 </footer>
