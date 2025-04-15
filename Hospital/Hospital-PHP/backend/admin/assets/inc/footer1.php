@@ -1,3 +1,3 @@
 <footer class="footer footer-alt">
-    2020 - <?php echo date('Y'); ?> &copy; Hospital Management System. Developed By Stephen Nganga</a>
+    2024 - <?php echo date('Y'); ?> &copy; Tumaini Referral Hospital Management System.</a>
 </footer>
